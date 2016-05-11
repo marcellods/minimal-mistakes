@@ -1,14 +1,14 @@
 ---
-  layout: post
-  title: Hello World!
-  excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-  modified: 2016-05-10
-  tags: [intro, beginner, jekyll, tutorial]
-  comments: true
-  image:
-    feature: /images/3d-iron-giant-wip-01.jpg
-    credit: Marcello Damasceno
-    creditlink: http://www.marcellodamasceno.com
+layout: post
+title: Hello World!
+excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+modified: 2016-05-10
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+image:
+  feature: /images/3d-iron-giant-wip-01.jpg
+  credit: Marcello Damasceno
+  creditlink: http://www.marcellodamasceno.com
 ---
 
 My first post on this test site.
